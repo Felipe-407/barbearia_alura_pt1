@@ -5,18 +5,16 @@ body{
 #banner{
     width: 100%;
 .principal {
-background:    #ccccc
+background: #ccccc;
 padding: 30px; 
 } 
-
-{
-
-h1{    
+  
 h1{     
-    text-align: center
+    text-align: center;
+}
 
 p{
-    text-aling: center;
+    text-align: center;
 }
 
     #missao{
@@ -44,7 +42,7 @@ p{
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin-rigth: 15%;
+    margin-right:  15%;
  }
 
  .imagem_beneficios {
